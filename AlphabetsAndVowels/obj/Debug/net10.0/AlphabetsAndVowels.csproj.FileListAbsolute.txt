@@ -1,0 +1,14 @@
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\bin\Debug\net10.0\AlphabetsAndVowels.exe
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\bin\Debug\net10.0\AlphabetsAndVowels.deps.json
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\bin\Debug\net10.0\AlphabetsAndVowels.runtimeconfig.json
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\bin\Debug\net10.0\AlphabetsAndVowels.dll
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\bin\Debug\net10.0\AlphabetsAndVowels.pdb
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.AssemblyInfoInputs.cache
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.AssemblyInfo.cs
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.csproj.CoreCompileInputs.cache
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.dll
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\refint\AlphabetsAndVowels.dll
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.pdb
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\AlphabetsAndVowels.genruntimeconfig.cache
+C:\Users\91639\Desktop\TopBrains\AlphabetsAndVowels\obj\Debug\net10.0\ref\AlphabetsAndVowels.dll
